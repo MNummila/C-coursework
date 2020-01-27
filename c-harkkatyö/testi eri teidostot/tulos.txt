@@ -1,0 +1,4 @@
+Datasetti Nimiä MinPit MaxPit KA Muistinkäyttö
+data1      5253      1     14  6 252 kB / 53%
+data2      6834      1     16  7 328 kB / 55%
+data3      22632      2     25  7 1086 kB / 56%
